@@ -444,7 +444,24 @@ border-bottom:1px solid #919191;
     border-radius: 10px;
     border: 3px double #000000;
   }
-
+.acabamentos{
+    width:200px;
+}
+.download{
+margin-left:22px;
+}
+.social_masculino {
+    padding-left:240px;
+}
+.costas{
+    margin-left: -50px;
+}
+.cores {
+left: 970px;
+}
+.uploader{
+    margin-left: 1050px;
+}
 /*-------------------------------------------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------------------------*/
 /*----------------------------------------Responsividade-------------------------------------------------------*/
@@ -521,7 +538,7 @@ border-bottom:1px solid #919191;
         height: 35px;
         font-size: 15px;
         padding: 2px;
-        left:-60px
+        left:-10px
     }
     .uploader{
         margin-top: 700px;
