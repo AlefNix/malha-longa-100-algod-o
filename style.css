@@ -474,7 +474,7 @@ left: 970px;
 
     .social_masculino{ 
         position: absolute;
-        padding-left:140px;
+        padding-left:20px;
         padding-right: 30px;
         padding-bottom: 30px;
         width: 380px;        
@@ -516,8 +516,8 @@ left: 970px;
     .switch__container2{
         display: flex;
         position: absolute;
-        left:245px;
-        margin-top:650px;
+        left:145px;
+        margin-top:550px;
         vertical-align: baseline;
         z-index: 13;
     }
@@ -533,7 +533,7 @@ left: 970px;
         height: 500px !important;
     }
     .download{
-        margin-top:700px;
+        margin-top:570px;
         width: 120px;
         height: 35px;
         font-size: 15px;
@@ -541,18 +541,18 @@ left: 970px;
         left:-10px
     }
     .uploader{
-        margin-top: 700px;
+        margin-top: 570px;
         width: 116px;
         height: 24px;
         font-size: 16px;
         padding-top: 7px;
-        margin-left: 540px;
+        right: 10px;
     }
     .cores{
             visibility: hidden;
             width: 300px;
             height: 500px;
-            left:350px;
+            left:115px;
             margin-top: 60px;
             z-index: 22;
     }
@@ -583,6 +583,7 @@ left: 970px;
         border-top-right-radius: 10px;
         top: 35px;
         left: 0;
+        z-index: 22;
     }
     .botaoacabamento + label svg{
         visibility: visible;
@@ -596,7 +597,7 @@ left: 970px;
     .acabamentos{
     width: 300px;
     height: 250px;
-    z-index: 20;
+    z-index: 23;
     margin-top: 60px;
     left: -10px;
     }
@@ -621,7 +622,7 @@ left: 970px;
         visibility: visible;
         position: absolute;
         top: 35px;
-        left:610px;
+        right: 0;
         width: 60px;
         height: 60px;
         background-color:#E9EAEC;
@@ -644,7 +645,7 @@ left: 970px;
         visibility: hidden;
         position: absolute;
         top: 35px;
-        left:610px;
+        right: 0;
         width: 60px;
         height: 60px;
         background-color:#E9EAEC;
