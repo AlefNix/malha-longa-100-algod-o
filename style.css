@@ -501,8 +501,8 @@ left: 970px;
     }
     .frente1,.frente2,.frente3,.frente4,.frente5,.frente6,.frente7,.costas1,.costas2,.costas3,.costas4,svg,.imgbolso, .imgfrente, .imgcostas, .bolso,.imggola,.imggola1{
         position: absolute;
-        width: 380px;
-        height: 440px;
+        width: 285px;
+        height: 328px;
     }
     .detalhes_v{
         width: 335px;
@@ -516,15 +516,15 @@ left: 970px;
     .switch__container2{
         display: flex;
         position: absolute;
-        left:145px;
-        margin-top:550px;
+        left:90px;
+        margin-top:480px;
         vertical-align: baseline;
         z-index: 13;
     }
     .drag{
         position: absolute;
         width: 380px !important;
-        height: 500px !important;
+        height: 400px !important;
         
     }
     .canvas-container,canvas, #list{
@@ -533,7 +533,7 @@ left: 970px;
         height: 500px !important;
     }
     .download{
-        margin-top:570px;
+        margin-top:520px;
         width: 120px;
         height: 35px;
         font-size: 15px;
@@ -541,7 +541,7 @@ left: 970px;
         left:-10px
     }
     .uploader{
-        margin-top: 570px;
+        margin-top: 520px;
         width: 116px;
         height: 24px;
         font-size: 16px;
